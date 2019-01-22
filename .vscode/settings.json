@@ -1,0 +1,4 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": { "javascript": "html" }
+}
