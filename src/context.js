@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { storeProducts, detailProduct } from './data';
-import { link } from 'fs';
 
 const ProductContext = React.createContext();
 // Provider
