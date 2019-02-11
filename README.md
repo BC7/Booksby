@@ -1,1 +1,1 @@
-Simple Online Book story built with React.
+Simple Online Book store built with React.

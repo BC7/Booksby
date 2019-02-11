@@ -12,17 +12,17 @@ export default function CartTotals({value, history}) {
           <button className="btn btn-outline-danger text-uppercase mb-3 px-5" type='button' onClick={() => clearCart()}>Clear Cart</button>
           </Link>
           <h5>
-              <span className="text-title">
+              <span className="text-muted">
               subtotal :</span>
               <strong>$ {cartSubTotal}</strong>
           </h5>
           <h5>
-              <span className="text-title">
+              <span className="text-muted">
               Tax :</span>
               <strong>$ {cartTax}</strong>
           </h5>
           <h5>
-              <span className="text-title">
+              <span className="text-muted">
               total :</span>
               <strong>$ {cartTotal}</strong>
           </h5>
